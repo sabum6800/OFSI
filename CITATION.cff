@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use or discuss this work, please cite it as below."
+
+title: "Observer Frequency Structure Interpretation (OFSI)"
+version: "1.0 (manuscript date: 2025-12-14)"
+date-released: 2025-12-24
+
+authors:
+  - family-names: "Drebenstedt"
+    given-names: "Erik"
+
+abstract: >
+  The Observer Frequency Structure Interpretation (OFSI) is an interpretative
+  hypothesis addressing foundational aspects of the quantum measurement
+  process within standard quantum mechanics. It introduces no new physical
+  theory, no new dynamics or equations, and no new quantitative predictions. OFSI
+  interprets the measurement transition not as a pointlike ontological collapse, but
+  as a structured reduction of dynamical accessibility of quantum state information
+  through coupling and stabilization. The concepts employed serve solely as
+  structural and interpretative tools and possess no independent physical or
+  ontological status. OFSI is fully consistent with standard quantum mechanics and
+  aims to provide a coherent interpretative account of the quantum-to-classical
+  transition without extending existing physics.
+
+keywords:
+  - quantum mechanics
+  - quantum measurement problem
+  - interpretation of quantum mechanics
+  - quantum foundations
+  - quantum-to-classical transition
+  - decoherence
+  - wave function collapse
+  - Born rule
+  - measurement
+  - emergence of classicality
+
+doi: "10.5281/zenodo.18048318"
+url: "https://doi.org/10.5281/zenodo.18048318"
+
+license: "CC-BY-NC-4.0"
+
